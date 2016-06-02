@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaykeyClient", "PlaykeyClient\PlaykeyClient.csproj", "{AC090ABE-E792-47E1-97A9-63B683F2D617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaykeyServer", "PlaykeyServer\PlaykeyServer.csproj", "{138344F8-E631-47FA-901E-04B87D407551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaykeyCommon", "PlaykeyCommon\PlaykeyCommon.csproj", "{71F7A9F9-297D-4540-B06F-B4D4E903BE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC090ABE-E792-47E1-97A9-63B683F2D617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC090ABE-E792-47E1-97A9-63B683F2D617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC090ABE-E792-47E1-97A9-63B683F2D617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC090ABE-E792-47E1-97A9-63B683F2D617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138344F8-E631-47FA-901E-04B87D407551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138344F8-E631-47FA-901E-04B87D407551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138344F8-E631-47FA-901E-04B87D407551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138344F8-E631-47FA-901E-04B87D407551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F7A9F9-297D-4540-B06F-B4D4E903BE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F7A9F9-297D-4540-B06F-B4D4E903BE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F7A9F9-297D-4540-B06F-B4D4E903BE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F7A9F9-297D-4540-B06F-B4D4E903BE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
